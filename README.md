@@ -382,7 +382,7 @@
 
 ## 反馈与联系
 
-**B 站主页**：[space.bilibili.com/12131593](https://space.bilibili.com/12131593)　·　**邮箱**：[1073243952@qq.com](mailto:1073243952@qq.com)　·　**GitHub 仓库**：[Akunda123/SVIXAGENT](https://github.com/Akunda123/SVIXAGENT)
+**B 站主页**：[space.bilibili.com/12131593](https://space.bilibili.com/12131593)　·　**邮箱**：[1073243952@qq.com](mailto:1073243952@qq.com)　·　**GitHub 仓库**：[StarlightJUE/SVIXAGENT](https://github.com/StarlightJUE/SVIXAGENT)
 
 说清这三样最省事：① **现象**（有截图更好）② **你刚做了什么**（从哪一步开始不对）③ **宿主是 SV 还是 IX、什么版本**。
 

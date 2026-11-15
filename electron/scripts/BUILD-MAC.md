@@ -175,7 +175,7 @@ Compress-Archive -Path dsh-runtime, dist\server-runtime-darwin-arm64, server\dis
 `.github/workflows/mac-build.yml`，手动触发：
 
 ```bash
-gh workflow run mac-build.yml -R Akunda123/SVIXAGENT -f mode=dmg+zip
+gh workflow run mac-build.yml -R StarlightJUE/SVIXAGENT -f mode=dmg+zip
 # 可选： -f release_tag=v1.0.0  把产物直接挂到已有 release
 # 快速验证： -f mode=dir-only   只出 .app（不跑 dmg，省时间）
 ```
