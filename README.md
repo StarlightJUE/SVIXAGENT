@@ -1,5 +1,9 @@
 # AKDAgent
 
+> **📢 孩子们，上游跑路了**
+>
+> 原上游仓库已不可访问，本仓库现由 [StarlightJUE/SVIXAGENT](https://github.com/StarlightJUE/SVIXAGENT) 独立接手维护。
+
 > **以 [DSH](https://github.com/deepseek-ai)（DeepSeek Harness）为底层、用对话操作 Synthesizer V Studio / Instrument X 的智能助手。**
 >
 > 📦 仓库名 **SVIXAGENT** = **S**ynthesizer **V** + **I**nstrument **X** + AGENT；产品名 **AKDAgent**（安装包 / 程序名 / 数据目录都用后者）。
